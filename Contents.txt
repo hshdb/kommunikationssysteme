@@ -1,5 +1,5 @@
 > These files will be included in your book:
 
-chapter1.txt
-Quellenverzeichnis.txt
 Text.txt
+Quellenverzeichnis.txt
+
