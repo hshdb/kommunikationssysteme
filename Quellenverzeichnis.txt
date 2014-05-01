@@ -1,4 +1,5 @@
 #Quellenverzeichnis
+[1] 
 @misc{.,
  abstract = {Grafisch dargestellter Ablaufplan des Projektplans der BBAW für die Erarbeitung eines Empfehlungsschreibens für das Wissenschaftliche Publizieren in der Zukunft.},
  title = {Ablauf: Online-Konsultation Publikationssystem},
@@ -6,7 +7,7 @@
  urldate = {01.05.2014}
 }
 
-
+[2]
 @misc{.18.04.2014,
  abstract = {Übersicht von Aktuellen Informationenen. Ebenso eine Liste aller Mitglieder der Arbeitsgruppe. Die Arbeitsweise, die Ziele der Online-Konsultation und Zahlen der Kommentare, mitmachenden Wissenschaftler, Problembenennungen am Ende sind angegeben.},
  year = {18.04.2014},
@@ -15,7 +16,7 @@
  urldate = {01.05.2014}
 }
 
-
+[3]
 @misc{ArbeitsgruppeZukunftdeswissenschaftlichenKommunikationssystems.,
  abstract = {Startseite der Onlineplattform. Auswahlmöglichkeiten zwischen den Prinzipien und Problemen.},
  author = {{Arbeitsgruppe {\dq}Zukunft des wissenschaftlichen Kommunikationssystems{\dq}}},
@@ -25,7 +26,7 @@
  urldate = {01.05.2014}
 }
 
-
+[4]
 @misc{ArbeitsgruppeZukunftdeswissenschaftlichenKommunikationssystems.b,
  abstract = {Starseite der Prinzipien. Übersicht mit kurzem Textausschnitt der Beschreibung der Prinzipien. Ebenso ist zu  sehen, wie viele Likes, Dislikes und Kommentare ein Prinzip hat.},
  author = {{Arbeitsgruppe {\dq}Zukunft des wissenschaftlichen Kommunikationssystems{\dq}}},
@@ -34,7 +35,7 @@
  urldate = {01.05.2014}
 }
 
-
+[5]
 @misc{ArbeitsgruppeZukunftdeswissenschaftlichenKommunikationssystems.18.04.2014,
  abstract = {Übersicht der Probleme. Während der Laufzeit der Konsultation konnten hier Probleme benannt und Probleme anderer kommentiert, geliked und disliked werden. 
 Ab ca. der zweiten Woche aufteilung in Themenbereiche, die sich rausgegliedert haben. Nach Themen und/oder Fachbereichen suchbar.
@@ -47,7 +48,7 @@ Nach der Konsultation ist nur noch die Suchm{\"o}glichkeit vorhanden.},
  urldate = {01.05.2014}
 }
 
-
+[6]
 @misc{.b,
  abstract = {Diskussion der mitmachenden Wissenschaftler zum Prinzip der Freiheit des wissenschaftlichen Austausches. Nach der Konsultation nur noch lesbar.},
  title = {Freiheit des wissenschaftlichen Austausches: Online-Konsultation Publikationssystem},
@@ -55,7 +56,7 @@ Nach der Konsultation ist nur noch die Suchm{\"o}glichkeit vorhanden.},
  urldate = {01.05.2014}
 }
 
-
+[7]
 @misc{.c,
  abstract = {Erklärung was eine Online-Konsultation ist, wer sich beteiligen kann, was das Thema ist wer unterstützt hat etz.},
  title = {Häufige Fragen: Online-Konsultation Publikationssystem},
@@ -63,7 +64,7 @@ Nach der Konsultation ist nur noch die Suchm{\"o}glichkeit vorhanden.},
  urldate = {01.05.2014}
 }
 
-
+[8]
 @misc{.d,
  abstract = {Diskussion der Wissenschaftler des Prinzips der Nachhaltigkeit. Nach der Konsultation nur noch lesbar.},
  title = {Nachhaltigkeit: Online-Konsultation Publikationssystem},
@@ -71,7 +72,7 @@ Nach der Konsultation ist nur noch die Suchm{\"o}glichkeit vorhanden.},
  urldate = {01.05.2014}
 }
 
-
+[9]
 @misc{.e,
  abstract = {Diskussion der Mitmachenden Wissenschaftler zu dem Prinzip der Ressourceneffizienz. Nach der Konsultation nur noch lesbar.},
  title = {Ressourceneffizienz: Online-Konsultation Publikationssystem},
@@ -79,7 +80,7 @@ Nach der Konsultation ist nur noch die Suchm{\"o}glichkeit vorhanden.},
  urldate = {01.05.2014}
 }
 
-
+[10]
 @misc{.f,
  abstract = {Diskussion der Mitmachenden Wissenschaftler zu dem Prinzip der Selbststeuerung durch die Wissenschaft. Nach der Konsultation nur noch lesbar.},
  title = {Selbststeuerung durch die Wissenschaft: Online-Konsultation Publikationssystem},
@@ -87,7 +88,7 @@ Nach der Konsultation ist nur noch die Suchm{\"o}glichkeit vorhanden.},
  urldate = {01.05.2014}
 }
 
-
+[11]
 @misc{.g,
  abstract = {Diskussion der mitmachenden Wissenschaftler des Prinzips der Transparenz der Mittelflüsse. Nach der Konsultation nur noch lesbar.},
  title = {Transparenz der Mittleflüsse: Online-Konsultation Publikationssystem},
@@ -95,7 +96,7 @@ Nach der Konsultation ist nur noch die Suchm{\"o}glichkeit vorhanden.},
  urldate = {01.05.2014}
 }
 
-
+[12]
 @misc{.h,
  abstract = {Diskussion der Wissenschaftler des Prinzips der Wählbarkeit des Mediums.
 Nach der Konsultation nur noch lesbar.},
