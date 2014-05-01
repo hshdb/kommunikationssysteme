@@ -7,8 +7,8 @@ Die BBAW untersucht die dynamische Entwicklung von wissenschaftlichem Publiziere
 ##Ablauf der Online-Konsultation:
 Es wurden Vertreter sämtlicher deutschsprachigen Forschungsfelder, Disziplinen und Teilbereiche über einschlägige Mailinglisten und E-Mail Verteiler von Fachgesellschaften eingeladen mitzumachen. Ebenso wurden Vertreter von Universitäten und außeruniversitären Einrichtungen angesprochen. Mindestens 202 Universitäten, nichtuniversitäre Einrichtungen und Fachgesellschaft haben die Information über die Online-Konsultation verbreitet. 
 Auf der [Konsultationsplattform](http://www.publikationssystem.de/) gab die BBAW Prinzipien mit Kurzbeschreibung an, welche bewertet und diskutiert werden sollen. Des weiterem gab es die Möglichkeit fachspezifische oder allgemein an die Wirtschaft gehaltene Probleme zu benennen und zu diskutieren. 
-[Screenshot der Startseite am 27.03.2014](images/sceenshot_start_webseite_27.03.png)
-Screenshot der Startseite am 27.03.2014 
+![Startseite 27.03.2014](images/start_webseite_27.03.png)
+<tbody>Screenshot der Startseite am 27.03.2014 </tbody>
 
 Die Prinzipien sind Ressourceneffizient, Transparente Mittelflüsse, Nachhaltigkeit, Wählbarkeit des Mediums, Freiheit des wissenschaftlichen Austausches und Selbststeuerung durch die Wissenschaft. 
 <tbody>![Abb.2: Übersicht der Prinzipien](images/Prinzipien.png)  
