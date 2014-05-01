@@ -10,9 +10,10 @@ Auf der [Konsultationsplattform](http://www.publikationssystem.de/) gab die BBAW
 ![Startseite 27.03.2014](images/start_webseite_27.03.png)
 <tbody>Screenshot der Startseite am 27.03.2014 </tbody>
 
+
 Die Prinzipien sind Ressourceneffizient, Transparente Mittelflüsse, Nachhaltigkeit, Wählbarkeit des Mediums, Freiheit des wissenschaftlichen Austausches und Selbststeuerung durch die Wissenschaft. 
-<tbody>![Abb.2: Übersicht der Prinzipien](images/Prinzipien.png)  
-Übersicht der Prinzipien </tbody>
+![Prinzipien](images/Prinzipien.png)
+<tbody>Übersicht der Prinzipien </tbody>
 
 Am meisten Kommentare (45) wurde über die Selbststeuerung in der Wissenschaft geschrieben. Das Prinzip legt dar, dass der Austausch der Forschungsergebnisse durch Kriterien des Fachgebietes oder der jeweiligen Disziplin zu regulieren sei und die Qualität allein durch die Wissenschaft zu definieren sei. Hier wurde vermehrt die Zusammenarbeit von Forschung und Anwendungsbereichen und Stakeholdern oder fachübergreifende Themen angesprochen. Somit wurde deutlich, dass das Prinzip nicht auf alle Disziplinen anwendbar ist. Ebenso wurde gesagt, dass die Qualitätskriterien transparent definiert werden sollten und eine Mischung von Qualität und Quantität bestehen muss.
 Die Ressourceneffizientz hat die zweitmeisten Kommentare (41) bekommen. In diesem Prinzip geht es darum allgemein zu diskutieren wie viel monetären Ressourcen für den Betrieb wirklich notwendig sind, und wie viel der Ressource Zeit des Forschers für den Erfolg unbedingt nötig ist. Dieses Prinzip war einigen Wissenschaftlern zu abstrakt oder trivial. Adere geben zu, dass sie keine Einsicht haben wie viel Geld in ihre Arbeiten, abgesehen vom Gehalt, fliest. Wieder anderen ist die Ressource Zeit sehr wichtig. Die Vorschläge, dass studentische Hilfskräfte die richtigen Zitationen und die Formatierung übernehmen sollten und es denkbar wäre, dass es einen standardisierten Aufbau für Artikelgeben könnte wurden geäußert. Viele gehen auf die Pflicht und Selbstverständlichkeit der Wissenschaft ein, dass mit Steuergeldern sparsam umgegangen werden soll, auch wenn Verlage teilweise doppelt Steuergelder bekommen. Dass zu viele Ergebnisse ausgeplustert werden mit Copy und Paste Inhalten aus vorangegangenen Arbeiten wird kritisiert. 
@@ -22,10 +23,11 @@ Die fünft meisten Kommentare (24) hat das Prinzip der Wählbarkeit des Mediums 
 Am wenigsten Kommentar, nur 22, gab es bei dem Prinzip der Nachhaltigkeit. Es behandelt die Problematik, dass es einen möglichst dauerhaften offenen Zugang zu Publikationen geben müsse und eine zuverlässige Archivierung von Nöten ist. Einige  Kommentare artikulierten, dass das Wort „Nachhaltigkeit“ zu ausgelutscht sei und durch Dauerhaftigkeit oder Verlässlichkeit ersetzt werden sollte. Im Großen und Ganzen habe ich rausgelesen, dass eine zweigleisige Sammlung die favorisierte Variante wäre. Einerseits digital, wobei hierbei die Bibliotheken unterstützt werden müssten und die Flut an Open Access Verlagen eingeschränkt werden sollte. Negativ Stimmen sagen, dass das heute Abspeicherte in 10 Jahren vermutlich nicht mehr lesbar sei. Andererseits sollte aufgrund der bewiesenen Beständigkeit von Druckwerken alle relevanten (was auch immer als relevant definiert wird) archiviert werden. Das Abhängigkeitsverhältnis zu Verlagen wird kritisiert. Ein Wunschtraum ist, dass die Verlage zurückgefahren werden. 
 
 Beim Probleme Benennen konnten die Mittmachenden zwischen 14 Fachrichtungen und der gesamten Wirtschaft wählen. 
-<tbody>![Auswahl_der_Fachbereiche.png](images/Auswahl_der_Fachbereiche.png) 
-Auswahl der Fachbereiche </tbody>
+![Fachbereiche Dropdown Liste](images/Auswahl_der_Fachbereiche.png)
+<tbody>Auswahl der Fachbereiche </tbody>
 
 Auffällig ist hier, dass einige Fachbereiche sehr viel und andere gar keine Probleme benannt haben. Die aktivsten waren Geisteswissenschaften und Sozial-und Verhaltenswissenschaften. Gar keine eigenen Probleme benannt haben das Bauwesen(und Architektur), Maschinenbau (und Produktionstechnik), Materialwissenschaften (und Wekstofftechnik) und Wärmetechnik/Verfahrenstechnik. Die meisten Problemstellungen (42) wurden unter die Gesamte Wirtschaft gestellt. Daraus lässt sich Schlussfolgern, dass viele wichtige Themen nicht nur einen Fachbereiche sondern alle Forschenden betreffen. Am häufigsten wurde über den Zitationsindizes und Open Access diskutiert. Probleme mit Archivierung, kommerziellen Verlage und individuelle Kosten wurden am wenigsten benannt
-<tbody>![Abb.3: Übersicht der herausgegliederten Themen](images/Themen_am_Ende.png)Übersicht der herausgegliederten Themen</tbody> 
+![Themen](images/Themen.png)
+<tbody> Übersicht der herausgegliederten Themen</tbody> 
 
 Ab der Zweiten Woche wurden 22 Themen herausgegliedert nach welchen fachrichtungsübergreifend gesucht werden kann. 
