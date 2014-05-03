@@ -1,6 +1,6 @@
 #Quellenverzeichnis
-[1]
-@www{ArbeitsgruppeZukunftdeswissenschaftlichenKommunikationssystems.,
+
+@www{AG1,
  abstract = {Startseite der Onlineplattform. Auswahlm{\"o}glichkeiten zwischen den Prinzipien und Problemen.},
  author = {{Arbeitsgruppe {\dq}Zukunft des wissenschaftlichen Kommunikationssystems{\dq}}},
  editor = {{Berlin-Brandenburgischen Akademie der Wissenschaften}},
