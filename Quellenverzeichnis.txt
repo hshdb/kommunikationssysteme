@@ -106,5 +106,3 @@ Nach der Konsultation~nur noch lesbar.},
  url = {http://www.publikationssystem.de/aktuelles},
  urldate = {2014-05-01}
 }
-
-
