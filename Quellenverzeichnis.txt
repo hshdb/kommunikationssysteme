@@ -95,3 +95,44 @@ Nach der Konsultation~nur noch lesbar.},
  url = {http://www.publikationssystem.de/aktuelles},
  urldate = {2014-05-01}
 }
+
+@www{DRG.,
+ abstract = {Bekanntmachung zu der konsultation - Werbung},
+ author = {DRG},
+ title = {Deutsche R{\"o}ntgen Gesellschaft},
+ url = {http://www.drg.de/de-DE/1461/jetzt-mitreden-online-konsultation-zum-wissenschaftlichen-publizieren},
+ urldate = {2014-05-04}
+}
+
+@www{INM.,
+ abstract = {Einladung zu Konsultationsteilnahme,},
+ author = {INM},
+ title = {Leibniz-Institut f{\"u}r Neue Medien},
+ url = {http://bibliothek.inm-gmbh.de/event/einladung-online-konsultation-zum-wissenschaftlichen-publikationssystem/},
+  urldate = {2014-05-04}
+}
+
+@www{KIT.,
+ abstract = {Ver{\"o}ffentlichung der Einladung zum Mitmachen der Online-Konsuiltation},
+ author = {KIT},
+ title = {Karlsruher Institut f{\"u}r~Technologie},
+ url = {https://blog.bibliothek.kit.edu/kit\_bib\_news/?p=6179},
+  urldate = {2014-05-04}
+}
+
+@www{facebook,
+ abstract = {Facebookseite mit News zu der Konsultation},
+ author = {publikationssystem},
+ title = {Facebook Seite},
+ url = {https://de-de.facebook.com/publikationssystem},
+  urldate = {2014-05-04}
+}
+
+@www{Twitter,
+ abstract = {Twitterseite mit News zu der Konsultation},
+ author = {publikationssystem},
+ title = {Twitter Seite},
+ url = {https://twitter.com/Publikationssys},
+  urldate = {2014-05-04}
+}
+
