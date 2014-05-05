@@ -7,7 +7,8 @@ Die BBAW untersucht die dynamische Entwicklung von wissenschaftlichem Publiziere
 ![Abbildung 1: Ablaufplan des Projektes am 24.4.2014](images/Ablaufplan.png) 
 
 ## Ablauf der Online-Konsultation
-Vertreter sämtlicher deutschsprachigen Forschungsfelder, Disziplinen, Teilbereiche und Mitarbeiter an Universitäten und nichtuniversitären Einrichtungen wurden über einschlägige Mailinglisten und E-Mail Verteiler eingeladen zu partizipieren. Mindestens 202 Universitäten, nichtuniversitäre Einrichtungen und Fachgesellschaft haben die Information über die Online-Konsultation verbreitet [@AG12].
+Vertreter sämtlicher deutschsprachigen Forschungsfelder, Disziplinen, Teilbereiche und Mitarbeiter an Universitäten und nichtuniversitären Einrichtungen wurden über einschlägige Mailinglisten und E-Mail Verteiler eingeladen zu partizipieren. Mindestens 202 Universitäten, nichtuniversitäre Einrichtungen und Fachgesellschaft haben die Information über die Online-Konsultation verbreitet [@AG12].  
+Unter Anderem haben die [deutsche Röntgengesellschaft](http://www.drg.de/de-DE/1461/jetzt-mitreden-online-konsultation-zum-wissenschaftlichen-publizieren), das [Leibniz-Institut für neue Medien](http://bibliothek.inm-gmbh.de/event/einladung-online-konsultation-zum-wissenschaftlichen-publikationssystem/) und das [Karlsruher Institut für Technologie](https://blog.bibliothek.kit.edu/kit_bib_news/?p=6179) die Einladung öffentlich gemacht.  
 Auf der [Konsultationsplattform](http://www.publikationssystem.de/) (Abbildung 2) gab die BBAW Prinzipien, welche bewertet und diskutiert wurden [@AG2] . 
 Des Weiteren gab es die Möglichkeit fachspezifische oder allgemein an die Wirtschaft gehaltene Probleme zu benennen und zu diskutieren [@AG1].
 
@@ -33,4 +34,6 @@ Auffällig ist, dass einige Fachbereiche sehr viel und andere gar keine Probleme
 ![Abbildung 5: Übersicht der herausgegliederten Themen](images/Themen.png)
 
 Ab der Zweiten Woche wurden 22 Themen herausgegliedert (Abbildung 5) nach welchen fachrichtungsübergreifend gesucht werden kann. 
-Mein Fazit der 
+Mein Fazit ist, dass viele Forschende der Meinung sind, dass das was durch die Öffentlichkeit finanziert wird auch dieser zum lesen zur Verfügung stehen sollten. Ebenso wurden immer wieder Qualität- und Quantitätskontrollen angesprochen. Auf Unverständnis trifft an vielen Stellen das Verbot von Verlagen zu Open Access publikationen. Keine Übereinstimmung der Forschenden gab es bei dem Streitpunkt ob das Buch oder die digitalen Variante besser sei.
+
+
