@@ -9,8 +9,7 @@
  urldate = {2014-05-01}
 }
 
-[2]
-@www{ArbeitsgruppeZukunftdeswissenschaftlichenKommunikationssystems.b,
+@www{AG2,
  abstract = {Starseite der Prinzipien. {\"U}bersicht kurzem textausschnitt der beschreibung der prinzipien. Ebenso ist zu  sehen, wie viele Likes, dilikes und Kommentare ein Prinzip hat.},
  author = {{Arbeitsgruppe {\dq}Zukunft des wissenschaftlichen Kommunikationssystems{\dq}}},
  title = {Prinzipien: Online-Konsultation Publikationssystem},
@@ -18,8 +17,8 @@
  urldate = {2014-05-01}
 }
 
-[3]
-@www{ArbeitsgruppeZukunftdeswissenschaftlichenKommunikationssystems.18.04.2014,
+
+@www{AG3,
  abstract = {{\"U}bersicht der Probleme. W{\"a}hrend der Laufzeit der Konsultation konnten hier Probleme benannt und Probleme anderer kommentiert geliked und disliked werden. 
 Ab ca. der zweiten Woche aufteilung in Themenbereiche, die sich rausgegliedert haben. Nach Themen und/oder Fachbereichen suchbar.
 Nach der Konsultation ist nur noch die Suchm{\"o}glichkeit vorhanden.},
@@ -31,8 +30,8 @@ Nach der Konsultation ist nur noch die Suchm{\"o}glichkeit vorhanden.},
  urldate = {2014-05-01}
 }
 
-[4]
-@www{BerlinBrandenburgischenAkademiederWissenschaften.,
+
+@www{AG4,
  abstract = {Grafisch dargestellter Aublaufplan des Projektplans der BBAW f{\"u}r die Erarbeitung eines Empfehlungsschreibens f{\"u}r das Wissenschaftliche Publizieren in der Zukunft.},
  title = {Ablauf: Online-Konsultation Publikationssystem},
  url = {http://www.publikationssystem.de/phases},
@@ -40,7 +39,7 @@ Nach der Konsultation ist nur noch die Suchm{\"o}glichkeit vorhanden.},
 }
 
 [5]
-@www{BerlinBrandenburgischenAkademiederWissenschaften.b,
+@www{AG5,
  abstract = {Diskussion der mitmachenden Wissenschaftler zum Prinzip der Freiheit des wissenschaftlichen Austausches. Nach der Konsultation~nur noch lesbar.},
  title = {Freiheit des wissenschaftlichen Austausches: Online-Konsultation Publikationssystem},
  url = {http://www.publikationssystem.de/prinzip/freiheit-des-wissenschaftlichen-austausches},
@@ -54,8 +53,7 @@ Nach der Konsultation ist nur noch die Suchm{\"o}glichkeit vorhanden.},
  urldate = {2014-05-01}
 }
 
-[7]
-@www{BerlinBrandenburgischenAkademiederWissenschaften.d,
+@www{AG7,
  abstract = {Diskussion der Wissenschaftler des Prinzips der Nachhaltigkeit.
 Nach der Konsultation~nur noch lesbar.},
  title = {Nachhaltigkeit: Online-Konsultation Publikationssystem},
@@ -63,24 +61,21 @@ Nach der Konsultation~nur noch lesbar.},
  urldate = {2014-05-01}
 }
 
-[8]
-@www{BerlinBrandenburgischenAkademiederWissenschaften.e,
+@www{AG8,
  abstract = {Diskussion der Mitmachenden Wissenschaftler zu dem Prinzip der Ressourceneffizienz. Nach der Konsultation~nur noch lesbar.},
  title = {Ressourceneffizienz: Online-Konsultation Publikationssystem},
  url = {http://www.publikationssystem.de/prinzip/ressourceneffizienz},
  urldate = {2014-05-01}
 }
 
-[9]
-@www{BerlinBrandenburgischenAkademiederWissenschaften.f,
+@www{AG9,
  abstract = {Diskussion der Mitmachenden Wissenschaftler zu dem Prinzip der Selbststeuerung durch die Wissenschaft. Nach der Konsultation~nur noch lesbar.},
  title = {Selbststeuerung durch die Wissenschaft: Online-Konsultation Publikationssystem},
  url = {http://www.publikationssystem.de/prinzip/selbststeuerung-durch-die-wissenschaft},
  urldate = {2014-05-01}
 }
 
-[10]
-@www{BerlinBrandenburgischenAkademiederWissenschaften.g,
+@www{AG10,
  abstract = {Diskussion der mitmachenden Wissenschaftler des Prinzips der Transparenz der Mittelfl{\"u}sse.
 Nach der Konsultation~nur noch lesbar.},
  title = {Transparenz der Mittlefl{\"u}sse: Online-Konsultation Publikationssystem},
@@ -88,8 +83,7 @@ Nach der Konsultation~nur noch lesbar.},
  urldate = {2014-05-01}
 }
 
-[11]
-@www{BerlinBrandenburgischenAkademiederWissenschaften.h,
+@www{AG11,
  abstract = {Diskussion der Wissenschaftler des Prinzips der W{\"a}hlbarkeit des Mediums.
 Nach der Konsultation~nur noch lesbar.},
  title = {W{\"a}hlbarkeit des Mediums: Online-Konsultation Publikationssystem},
@@ -97,8 +91,7 @@ Nach der Konsultation~nur noch lesbar.},
  urldate = {2014-05-01}
 }
 
-[12]
-@www{BerlinBrandenburgischenAkademiederWissenschaften.18.04.2014,
+@www{AG12,
  abstract = {{\"U}bersicht von Aktuellen Informationenen. Ebenso eine Liste aller Mitglieder der Arbeitsgruppe. Die Arbeitsweise, die Ziele der Online-Konsultation und Zahlen der Kommentare, mitmachenden Wissenschaftler, Problembenennungen am ende sind angegeben.},
  year = {18.04.2014},
  title = {Aktuelle Informationen: Online-Konsultation Publikationssystem},
